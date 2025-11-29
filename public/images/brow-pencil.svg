@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160">
+  <rect width="100%" height="100%" fill="#fffcf9" />
+  <g transform="translate(46,36)">
+    <rect x="0" y="16" width="12" height="68" rx="6" fill="#6b4f3e"/>
+    <polygon points="12,16 24,8 26,10 14,18" fill="#8a6a58"/>
+  </g>
+  <text x="120" y="146" text-anchor="middle" font-family="Arial" font-size="12" fill="#533a2e">Eyebrow Pencil</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160">
+  <rect width="100%" height="100%" fill="#f8f4ec"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="18" fill="#5a4a3e">Eyebrow Pencil</text>
+</svg>

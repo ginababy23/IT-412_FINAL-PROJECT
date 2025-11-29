@@ -1,0 +1,182 @@
+[
+  {
+    "id": "foundation-1",
+    "name": "Liquid Foundation",
+    "category": "Face",
+    "price": 799.00,
+    "shades": ["Porcelain", "Ivory", "Cream", "Beige", "Honey", "Caramel", "Mocha"],
+    "image": "/images/foundation.svg",
+    "description": "Buildable, lightweight liquid foundation that blends evenly and lasts up to 12 hours. Infused with hydrating hyaluronic acid for luminous, natural finish. SPF 15."
+  },
+  {
+    "id": "concealer-1",
+    "name": "Concealer",
+    "category": "Face",
+    "price": 599.00,
+    "shades": ["Light", "Medium", "Tan", "Deep"],
+    "image": "/images/concealer.svg",
+    "description": "High-coverage concealer with creamy texture to cover discoloration and brighten under-eye area without creasing. Long-wear, lightweight finish."
+  },
+  {
+    "id": "powder-1",
+    "name": "Pressed Powder",
+    "category": "Face",
+    "price": 499.00,
+    "shades": ["Translucent", "Light", "Medium", "Deep"],
+    "image": "/images/pressed-powder.svg",
+    "description": "Ultra-fine pressed powder to set makeup, control shine, and blur imperfections. Ideal for touch-ups on the go. Non-cakey finish."
+  },
+  {
+    "id": "blush-1",
+    "name": "Blush (Powder)",
+    "category": "Face",
+    "price": 549.00,
+    "shades": ["Soft Rose", "Peachy", "Coral", "Berry"],
+    "image": "/images/blush.svg",
+    "description": "Silky powder blush that blends easily and provides a natural flush of color. Long-lasting and pigmented for easy application."
+  },
+  {
+    "id": "highlighter-1",
+    "name": "Highlighter",
+    "category": "Face",
+    "price": 699.00,
+    "shades": ["Champagne", "Gold", "Pearl"],
+    "image": "/images/highlighter.svg",
+    "description": "Soft-focus highlighting powder that gives skin a radiant, luminous glow without visible glitter. Layer for subtle to intense highlight."
+  },
+  {
+    "id": "bronzer-1",
+    "name": "Bronzer",
+    "category": "Face",
+    "price": 649.00,
+    "shades": ["Light Bronze", "Medium Bronze", "Deep Bronze"],
+    "image": "/images/bronzer.svg",
+    "description": "Warm-toned bronzer to add sun-kissed warmth and subtle contour. Matte and blendable formula for natural-looking dimension."
+  },
+  {
+    "id": "eyeshadow-1",
+    "name": "Eyeshadow Palette",
+    "category": "Eyes",
+    "price": 1299.00,
+    "shades": ["Nude Glam", "Smoky Bronze", "Sunset Rose"],
+    "image": "/images/eyeshadow.svg",
+    "description": "Multi-finish palette with mattes, satins and shimmers. Highly pigmented formula that blends easily and is crease-resistant."
+  },
+  {
+    "id": "mascara-1",
+    "name": "Mascara",
+    "category": "Eyes",
+    "price": 499.00,
+    "shades": ["Black", "Brown"],
+    "image": "/images/mascara.svg",
+    "description": "Volumizing mascara with buildable formula to lengthen and define lashes while resisting smudging and flaking."
+  },
+  {
+    "id": "liquid-eyeliner-1",
+    "name": "Liquid Eyeliner",
+    "category": "Eyes",
+    "price": 399.00,
+    "shades": ["Black"],
+    "image": "/images/liquid-eyeliner.svg",
+    "description": "Precision liquid liner with ultra-fine tip for effortless wings and precise lines. Quick-dry, long-lasting and transfer-proof."
+  },
+  {
+    "id": "pencil-eyeliner-1",
+    "name": "Pencil Eyeliner",
+    "category": "Eyes",
+    "price": 399.00,
+    "shades": ["Black", "Brown", "Navy"],
+    "image": "/images/pencil-eyeliner.svg",
+    "description": "Creamy pencil liner that glides smoothly for soft, smudged looks or precise definition. Long-wearing and easy to blend."
+  },
+  {
+    "id": "brow-pencil-1",
+    "name": "Eyebrow Pencil",
+    "category": "Brows",
+    "price": 399.00,
+    "shades": ["Blonde", "Taupe", "Dark Brown", "Black"],
+    "image": "/images/brow-pencil.svg",
+    "description": "Fine-tip eyebrow pencil for natural hair-like strokes and precise shaping. Smudge-resistant and long-lasting."
+  },
+  {
+    "id": "brow-gel-1",
+    "name": "Eyebrow Gel",
+    "category": "Brows",
+    "price": 399.00,
+    "shades": ["Clear", "Tinted"],
+    "image": "/images/brow-gel.svg",
+    "description": "Lightweight gel to tame brows and set them in place while adding subtle definition. Tinted wearable color for fuller look."
+  },
+  {
+    "id": "lashes-1",
+    "name": "False Eyelashes",
+    "category": "Eyes",
+    "price": 399.00,
+    "shades": [],
+    "image": "/images/false-lashes.svg",
+    "description": "Cruelty-free false lashes with comfortable lash band for easy application. Reusable and blends well with natural lashes."
+  },
+  {
+    "id": "matte-lipstick-1",
+    "name": "Matte Lipstick",
+    "category": "Lips",
+    "price": 599.00,
+    "shades": ["Nude Rose", "Mauve", "Classic Red", "Berry", "Deep Plum"],
+    "image": "/images/matte-lipstick.svg",
+    "description": "Long-wear matte lipstick with a velvety finish. High pigment formula that stays comfortable on the lips."
+  },
+  {
+    "id": "lip-gloss-1",
+    "name": "Lip Gloss",
+    "category": "Lips",
+    "price": 399.00,
+    "shades": ["Clear Shine", "Pink", "Coral", "Cherry"],
+    "image": "/images/lip-gloss.svg",
+    "description": "Non-sticky gloss with high shine and cushiony feel. Can be worn alone or layered over lipstick."
+  },
+  {
+    "id": "lip-tint-1",
+    "name": "Lip Tint",
+    "category": "Lips",
+    "price": 399.00,
+    "shades": ["Sheer Pink", "Rosy", "Tangerine"],
+    "image": "/images/lip-tint.svg",
+    "description": "Long-lasting water-based lip tint that gives diffused, natural color. Lightweight and buildable for subtle or bold looks."
+  },
+  {
+    "id": "lip-liner-1",
+    "name": "Lip Liner",
+    "category": "Lips",
+    "price": 399.00,
+    "shades": ["Nude", "Rose", "Red"],
+    "image": "/images/lip-liner.svg",
+    "description": "Creamy lip liner to define, shape and prolong the wear of lipstick. Sharpens to a fine point for precise application."
+  },
+  {
+    "id": "primer-1",
+    "name": "Primer",
+    "category": "Face",
+    "price": 799.00,
+    "shades": ["Clear"],
+    "image": "/images/primer.svg",
+    "description": "Silicone-free primer that smooths skin, minimizes pores, and extends makeup wear. Lightweight and breathable."
+  },
+  {
+    "id": "setting-spray-1",
+    "name": "Setting Spray",
+    "category": "Face",
+    "price": 499.00,
+    "shades": ["Clear"],
+    "image": "/images/setting-spray.svg",
+    "description": "Hydrating setting spray that locks in makeup for 12 hours. Refreshing feel and fine mist finish for all skin types."
+  },
+  {
+    "id": "brush-set-1",
+    "name": "Makeup Brush Set",
+    "category": "Tools",
+    "price": 1999.00,
+    "shades": [],
+    "image": "/images/brush-set.svg",
+    "description": "Professional-grade vegan brush set with essential shapes for perfecting foundation, eyes, and lips. Durable, soft synthetic bristles."
+  }
+]

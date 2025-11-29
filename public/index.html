@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>LushLuxe Cosmetics — Makeup Collection</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+      <h1 class="brand">LushLuxe Cosmetics</h1>
+      <p class="tagline">Empower yourself through makeup — "Glow with confidence"</p>
+        <div class="cart" id="cart-button">🛒 <span id="cart-count">0</span></div>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="info-note" style="margin-bottom:12px; padding:12px; background:rgba(255,111,163,0.06); border-radius:8px; border:1px solid rgba(255,111,163,0.08);">
+        <strong>Note:</strong> These makeup items are a curated mix from different brands, so product images are intentionally not shown — they are mysterious, mixed-brand products.
+      </section>
+      <section class="grid" id="products"></section>
+
+      <aside class="cart-drawer" id="cart-drawer">
+        <h2>Your Cart</h2>
+        <div id="cart-items"></div>
+        <div class="cart-total"><strong>Total:</strong> <span id="cart-total">₱0.00</span></div>
+        <div class="cart-actions">
+          <button id="checkout-btn">Checkout</button>
+          <button id="close-cart">Close</button>
+        </div>
+      </aside>
+
+      <section class="artists">
+        <h2>Artists who use our products</h2>
+        <div id="artists-list" class="artists-list"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <div class="footer-left">Baby Gina Vijano • SM 4102</div>
+        <div class="footer-right">“The goal is progress, not perfection.” - Kathy Freston</div>
+      </div>
+    </footer>
+
+    <script src="/app.js"></script>
+  </body>
+  </html>

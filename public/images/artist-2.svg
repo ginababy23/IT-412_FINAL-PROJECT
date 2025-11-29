@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240">
+  <rect width="100%" height="100%" fill="#f3f8ff" />
+  <circle cx="120" cy="80" r="36" fill="#c7d9ff" />
+  <rect x="60" y="130" width="120" height="60" rx="8" fill="#dfeaff" />
+  <text x="50%" y="200" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="14" fill="#2c4f6f">Luca Santos</text>
+</svg>

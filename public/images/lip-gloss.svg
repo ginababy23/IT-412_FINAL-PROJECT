@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160">
+  <rect width="100%" height="100%" fill="#fff6f9"/>
+  <g transform="translate(70,24)">
+    <rect x="10" y="10" width="18" height="80" rx="6" fill="#ffb6cf"/>
+    <rect x="10" y="10" width="18" height="28" rx="6" fill="#ff84a8"/>
+  </g>
+  <text x="120" y="144" text-anchor="middle" font-family="Arial" font-size="12" fill="#b83f62">Lip Gloss</text>
+</svg>

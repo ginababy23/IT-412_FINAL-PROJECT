@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160">
+  <rect width="100%" height="100%" fill="#fff7f8" />
+  <g transform="translate(60,34)">
+    <circle cx="48" cy="28" r="28" fill="#ffd6e5" stroke="#f0c3d2" />
+  </g>
+  <text x="120" y="146" text-anchor="middle" font-family="Arial" font-size="12" fill="#c62e5b">Blush</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160">
+  <rect width="100%" height="100%" fill="#fff0f3"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="20" fill="#c02552">Blush</text>
+</svg>

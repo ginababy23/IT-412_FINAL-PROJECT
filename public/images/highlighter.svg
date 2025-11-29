@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160">
+  <rect width="100%" height="100%" fill="#fffaf9" />
+  <g transform="translate(72,30)">
+    <circle cx="28" cy="28" r="24" fill="#fff3c6" stroke="#f0d98d" />
+    <g transform="translate(12, -4)" fill="#fff6cc">
+      <path d="M10 18 L30 28" stroke="#f7e59b" stroke-width="2" />
+    </g>
+  </g>
+  <text x="120" y="146" text-anchor="middle" font-family="Arial" font-size="12" fill="#b78e29">Highlighter</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160">
+  <rect width="100%" height="100%" fill="#fffbe6"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="20" fill="#b0842b">Highlighter</text>
+</svg>

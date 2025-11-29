@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160">
+  <rect width="100%" height="100%" fill="#fffaf8" />
+  <g transform="translate(36,30)">
+    <rect x="12" y="8" width="140" height="22" rx="8" fill="#fff" stroke="#eeece9" />
+    <circle cx="78" cy="62" r="24" fill="#fde9d8" stroke="#e9cdbf" />
+  </g>
+  <text x="120" y="146" text-anchor="middle" font-family="Arial" font-size="12" fill="#6d3c2b">Pressed Powder</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160">
+  <rect width="100%" height="100%" fill="#faf3ff"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="20" fill="#6b4b65">Pressed Powder</text>
+</svg>

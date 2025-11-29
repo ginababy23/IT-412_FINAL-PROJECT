@@ -1,0 +1,5 @@
+[
+  { "name": "Maya Rivera", "role": "Celebrity MUA", "bio": "Maya uses our brand for red carpet ready looks with long-lasting finish.", "image": "/images/artist-1.svg" },
+  { "name": "Luca Santos", "role": "Editorial Artist", "bio": "Luca relies on our eyeshadow palettes and brushes for high-pigment editorial work.", "image": "/images/artist-2.svg" },
+  { "name": "Asha Nair", "role": "Bridal MUA", "bio": "Asha trusts our complexion line for flawless, camera-ready foundation and concealer.", "image": "/images/artist-3.svg" }
+]
